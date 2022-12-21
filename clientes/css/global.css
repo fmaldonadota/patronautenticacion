@@ -1,0 +1,64 @@
+
+#body-login{
+    background: url("../imagenes/fondo.jpg");
+	background-color: #444; 
+	 background-size: 100% 100%;
+}
+
+.vertical-offset-100{
+    padding-top:100px;
+}
+
+
+#tabla{
+	margin: 0 auto;
+	width:302px;
+	height:302px;
+	background: #87a1c0;
+	padding: 10px;
+	-webkit-border-radius: 10px 10px;  /* Safari  */
+  -moz-border-radius: 10px 10px;     /* Firefox */
+  border: 1px solid #a6a6a6;
+
+
+}
+
+#ajedrez{
+	margin: 0 auto;
+	width:280px;
+	height:280px;
+	background: red;
+}
+
+.blanca{
+	width:70px;
+	height:70px;
+	background: #ffffff;
+	float:left;
+}
+
+.gris{
+	width:70px;
+	height:70px;
+	background: #cccccc;
+	float:left;
+}
+
+
+.verPieza{
+	width:70px;
+	height:70px;
+	float:left;
+}
+#piezas{
+
+margin: 0 auto;
+height: 70px;
+width:420px; 
+
+}
+
+.panel-default{
+
+	border: 1px solid #a6a6a6;
+}
